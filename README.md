@@ -12,8 +12,3 @@ In desktop UI look just that ,
 ![image alt](https://github.com/pallab-at-tech/Todo/blob/dddd99b8f9ff059f484dd8ab7822f5f2a0264cf5/Screenshot%202025-03-31%20220558.png)
 
 
-In phone UI look just that , 
-
-![image alt](https://github.com/pallab-at-tech/Todo/blob/cd97330675fa7ca7c50ca5e2d10ccb10e5483d61/phone%20UI.jpg)
-
-
